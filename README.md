@@ -1,0 +1,2 @@
+# Lumagui-Techquipment
+Finals CompSci
